@@ -100,12 +100,18 @@ switch (userCommand) {
     case "spotify-this-song":
         //console.log(userCommand);
         var song = process.argv.slice(3).join(" ").toLowerCase();
+        if (song === "") {
+            song = "the sign";
+        }
         spotifyThisSong(song);
         break;
 
     case "movie-this":
         //console.log(userCommand);
         var movieName = process.argv.slice(3).join("+");
+        if (movieName === "") {
+            movieName = "mr.nobody";
+        }
         movieThis(movieName);
         break;
 
@@ -118,20 +124,27 @@ switch (userCommand) {
             console.log(data);
             var dataArr = data.split(",");
             console.log(dataArr);
+            console.log(dataArr.length);
             fileCommand = dataArr[0];
             fileArg = dataArr[1];
             var fileArgFixed = dataArr[1].slice(1, -1).toLowerCase();
             console.log("command: " + fileCommand);
-            console.log("argument" + fileArgFixed);
+            console.log("argument " + fileArgFixed);
 
             switch (fileCommand) {
                 case "spotify-this-song":
+                    if (fileArgFixed === "") {
+                        fileArgFixed = "the sign";
+                    }
                     spotifyThisSong(fileArgFixed);
                     break;
                 case "concert-this":
                     concertThis(fileArgFixed);
                     break;
                 case "movie-this":
+                    if (fileArgFixed === "") {
+                        fileArgFixed = "mr.nobody";
+                    }
                     movieThis(fileArgFixed);
             }
         });
