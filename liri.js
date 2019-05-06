@@ -2,6 +2,8 @@
 require("dotenv").config();
 var axios = require("axios");
 
+var moment = require("moment");
+
 //js
 var keys = require("./keys");
 
@@ -16,8 +18,21 @@ switch (userCommand) {
         axios
             .get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
             .then(function (response) {
+                //console.log(response);
                 console.log(response.data);
-                console.log();
+                console.log(response.data.length);
+                for (var x = 0; x < response.data.length; x++) {
+                    var resultNum = x + 1;
+                    //console.log(moment().format(response.data[x].datetime));
+                    console.log("---------------------");
+                    console.log("Result " + resultNum + " of " + response.data.length);
+                    console.log(artist);
+                    console.log("Venue: " + response.data[x].venue.name);
+                    console.log("Location: " + response.data[x].city + ", " + response.data[x].country);
+                    console.log("Date: " + response.data[x].datetime);
+                    console.log("---------------------");
+                }
+
             })
 
 
