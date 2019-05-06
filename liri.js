@@ -15,7 +15,7 @@ var spotify = new Spotify(keys.spotify);
 var userCommand = process.argv[2];
 switch (userCommand) {
     case "concert-this":
-        console.log(userCommand);
+        //console.log(userCommand);
         var artist = process.argv[3] + " " + process.argv[4];
         axios
             .get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
@@ -39,7 +39,7 @@ switch (userCommand) {
         break;
 
     case "spotify-this-song":
-        console.log(userCommand);
+        //console.log(userCommand);
         var song = process.argv.slice(3).join(" ");
         spotify
             .search({ type: 'track', query: song })
@@ -53,19 +53,18 @@ switch (userCommand) {
                         //console.log("Exact Match Songs:");
                         // console.log(response.tracks.items[x]);
                         console.log("--------------");
-                        console.log("Artist: "+response.tracks.items[x].artists[0].name);
+                        console.log("Artist: " + response.tracks.items[x].artists[0].name);
                         //console.log("--------------");
-                        console.log("Song: "+response.tracks.items[x].name);
+                        console.log("Song: " + response.tracks.items[x].name);
                         //console.log("--------------");
-                        console.log("Spotify Link: "+response.tracks.items[x].external_urls.spotify);
+                        console.log("Spotify Link: " + response.tracks.items[x].external_urls.spotify);
                         //console.log("--------------");
-                        console.log("Album: "+response.tracks.items[x].album.name);
+                        console.log("Album: " + response.tracks.items[x].album.name);
                         console.log("--------------");
                         //console.log(x);
                         //console.log("--------------");
                     }
                 }
-
             })
             .catch(function (err) {
                 console.log(err);
@@ -74,7 +73,25 @@ switch (userCommand) {
         break;
 
     case "movie-this":
-        console.log(userCommand);
+        //console.log(userCommand);
+        var movieName = process.argv.slice(3).join("+");
+        var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
+        axios
+            .get(queryUrl).then(
+                function (response) {
+                    //console.log(response.data);
+                    console.log("---------------------------");
+                    console.log("Title: " + response.data.Title);
+                    console.log("Year: " + response.data.Year);
+                    console.log("IMDB Rating: " + response.data.imdbRating);
+                    console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
+                    console.log("Produced in: " + response.data.Country);
+                    console.log("Language: " + response.data.Language);
+                    console.log("Plot: " + response.data.Plot);
+                    console.log("Actors: " + response.data.Actors);
+                    console.log("---------------------------");
+                }
+            );
         break;
 
     case "do-what-it-says":
