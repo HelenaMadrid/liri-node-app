@@ -13,6 +13,45 @@ var keys = require("./keys");
 var spotify = new Spotify(keys.spotify);
 
 var userCommand = process.argv[2];
+
+function spotifyThisSong(song) {
+    spotify
+        .search({ type: 'track', query: song })
+        .then(function (response2) {
+            //console.log(response2);
+            //console.log(response2.tracks.items.length);
+            //for (var y = 0; y < response2.tracks.items.length; y++) {
+            // console.log("Name of song:");
+            //console.log(y);
+            response2.tracks.items.forEach(function (element) {
+                //console.log(element);
+                //console.log(song);
+                //console.log(element.name);
+                if (song === element.name.toLowerCase()) {
+                    //console.log("Exact Match Songs:");
+                    //console.log(response.tracks.items[x]);
+                    //console.log(element);
+                    console.log("--------------");
+                    console.log("Artist: " + element.artists[0].name);
+                    //console.log("--------------");
+                    console.log("Song: " + element.name);
+                    //console.log("--------------");
+                    console.log("Spotify Link: " + element.external_urls.spotify);
+                    //console.log("--------------");
+                    console.log("Preview song: " + element.preview_url)
+                    console.log("Album: " + element.album.name);
+                    console.log("--------------");
+                    //console.log(x);
+                    //console.log("--------------");
+                }
+            });
+        })
+        .catch(function (err) {
+            console.log(err);
+        });
+}
+
+
 switch (userCommand) {
     case "concert-this":
         //console.log(userCommand);
@@ -21,14 +60,14 @@ switch (userCommand) {
             .get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
             .then(function (response) {
                 //console.log(response);
-                console.log(response.data);
-                console.log(response.data.length);
+                // console.log(response.data);
+                // console.log(response.data.length);
                 for (var x = 0; x < response.data.length; x++) {
                     var resultNum = x + 1;
                     //console.log(moment().format(response.data[x].datetime));
                     console.log("---------------------");
                     console.log("Result " + resultNum + " of " + response.data.length);
-                    console.log(artist);
+                    console.log("Artist: " + response.data[x].lineup[0]);
                     console.log("Venue: " + response.data[x].venue.name);
                     console.log("Location: " + response.data[x].venue.city + ", " + response.data[x].venue.country);
                     console.log("Date: " + response.data[x].datetime);
@@ -41,42 +80,43 @@ switch (userCommand) {
     case "spotify-this-song":
         //console.log(userCommand);
         var song = process.argv.slice(3).join(" ").toLowerCase();
-        spotify
-            .search({ type: 'track', query: song })
-            .then(function (response2) {
-                console.log(response2);
-                console.log(response2.tracks.items.length);
-                console.log(response2.tracks.items[7].name);
-                console.log(response2.tracks.items[7].external_urls.spotify);
-                //for (var y = 0; y < response2.tracks.items.length; y++) {
-                // console.log("Name of song:");
-                //console.log(y);
-                response2.tracks.items.forEach(function (element) {
-                    //console.log(element);
-                    //console.log(song);
-                    //console.log(element.name);
-                    if (song === element.name.toLowerCase()) {
-                        //console.log("Exact Match Songs:");
-                        //console.log(response.tracks.items[x]);
-                        console.log(element);
-                        console.log("--------------");
-                        console.log("Artist: " + element.artists[0].name);
-                        //console.log("--------------");
-                        console.log("Song: " + element.name);
-                        //console.log("--------------");
-                        console.log("Spotify Link: " + element.external_urls.spotify);
-                        //console.log("--------------");
-                        console.log("Preview song: "+ element.preview_url)
-                        console.log("Album: " + element.album.name);
-                        console.log("--------------");
-                        //console.log(x);
-                        //console.log("--------------");
-                    }
-                });
-            })
-            .catch(function (err) {
-                console.log(err);
-            });
+        spotifyThisSong(song);
+        // spotify
+        //     .search({ type: 'track', query: song })
+        //     .then(function (response2) {
+        //         console.log(response2);
+        //         console.log(response2.tracks.items.length);
+        //         console.log(response2.tracks.items[7].name);
+        //         console.log(response2.tracks.items[7].external_urls.spotify);
+        //         //for (var y = 0; y < response2.tracks.items.length; y++) {
+        //         // console.log("Name of song:");
+        //         //console.log(y);
+        //         response2.tracks.items.forEach(function (element) {
+        //             //console.log(element);
+        //             //console.log(song);
+        //             //console.log(element.name);
+        //             if (song === element.name.toLowerCase()) {
+        //                 //console.log("Exact Match Songs:");
+        //                 //console.log(response.tracks.items[x]);
+        //                 //console.log(element);
+        //                 console.log("--------------");
+        //                 console.log("Artist: " + element.artists[0].name);
+        //                 //console.log("--------------");
+        //                 console.log("Song: " + element.name);
+        //                 //console.log("--------------");
+        //                 console.log("Spotify Link: " + element.external_urls.spotify);
+        //                 //console.log("--------------");
+        //                 console.log("Preview song: "+ element.preview_url)
+        //                 console.log("Album: " + element.album.name);
+        //                 console.log("--------------");
+        //                 //console.log(x);
+        //                 //console.log("--------------");
+        //             }
+        //         });
+        //     })
+        //     .catch(function (err) {
+        //         console.log(err);
+        //     });
 
         break;
 
@@ -111,44 +151,13 @@ switch (userCommand) {
             var dataArr = data.split(",");
             fileCommand = dataArr[0];
             fileArg = dataArr[1];
-            var fixed = dataArr[1].slice(1, -1);
+            var song = dataArr[1].slice(1, -1).toLowerCase();
             console.log("command: " + fileCommand);
-            console.log("track: " + fixed);
-            // switch (fileCommand) {
-            //     case "spotify-this-song":
-            //         console.log(fixed);
-            //         spotify
-            //             .search({ type: 'track', query: fixed })
-            //             .then(function (response) {
-            //                 console.log(response);
-            //                 console.log(response.tracks.items[x]);
-            //                 //console.log(response.tracks.items.length);
-            //                 for (var x = 0; x < response.tracks.items.length; x++) {
-            //                     // console.log("Name of song:");
-            //                     // console.log(x);
-            //                     if (song === response.tracks.items[x].name) {
-            //                         //console.log("Exact Match Songs:");
-            //                         // console.log(response.tracks.items[x]);
-            //                         console.log("--------------");
-            //                         console.log("Artist: " + response.tracks.items[x].artists[0].name);
-            //                         //console.log("--------------");
-            //                         console.log("Song: " + response.tracks.items[x].name);
-            //                         //console.log("--------------");
-            //                         console.log("Spotify Link: " + response.tracks.items[x].external_urls.spotify);
-            //                         //console.log("--------------");
-            //                         console.log("Album: " + response.tracks.items[x].album.name);
-            //                         console.log("--------------");
-            //                         //console.log(x);
-            //                         //console.log("--------------");
-            //                     }
-            //                 }
-            //             })
-            //             .catch(function (err) {
-            //                 console.log(err);
-            //             });
+            console.log("track: " + song);
 
-
-            // }
+            if (fileCommand === "spotify-this-song") {
+                spotifyThisSong(song);
+            }
 
         });
         break;
