@@ -1,7 +1,7 @@
 //js
 require("dotenv").config();
 var axios = require("axios");
-
+var fs = require("fs");
 var moment = require("moment");
 var Spotify = require("node-spotify-api");
 var dotenv = require("dotenv");
@@ -30,7 +30,7 @@ switch (userCommand) {
                     console.log("Result " + resultNum + " of " + response.data.length);
                     console.log(artist);
                     console.log("Venue: " + response.data[x].venue.name);
-                    console.log("Location: " + response.data[x].city + ", " + response.data[x].country);
+                    console.log("Location: " + response.data[x].venue.city + ", " + response.data[x].venue.country);
                     console.log("Date: " + response.data[x].datetime);
                     console.log("---------------------");
                 }
@@ -40,31 +40,39 @@ switch (userCommand) {
 
     case "spotify-this-song":
         //console.log(userCommand);
-        var song = process.argv.slice(3).join(" ");
+        var song = process.argv.slice(3).join(" ").toLowerCase();
         spotify
             .search({ type: 'track', query: song })
-            .then(function (response) {
-                //console.log(response);
-                //console.log(response.tracks.items.length);
-                for (var x = 0; x < response.tracks.items.length; x++) {
-                    // console.log("Name of song:");
-                    // console.log(x);
-                    if (song === response.tracks.items[x].name) {
+            .then(function (response2) {
+                console.log(response2);
+                console.log(response2.tracks.items.length);
+                console.log(response2.tracks.items[7].name);
+                console.log(response2.tracks.items[7].external_urls.spotify);
+                //for (var y = 0; y < response2.tracks.items.length; y++) {
+                // console.log("Name of song:");
+                //console.log(y);
+                response2.tracks.items.forEach(function (element) {
+                    //console.log(element);
+                    //console.log(song);
+                    //console.log(element.name);
+                    if (song === element.name.toLowerCase()) {
                         //console.log("Exact Match Songs:");
-                        // console.log(response.tracks.items[x]);
+                        //console.log(response.tracks.items[x]);
+                        console.log(element);
                         console.log("--------------");
-                        console.log("Artist: " + response.tracks.items[x].artists[0].name);
+                        console.log("Artist: " + element.artists[0].name);
                         //console.log("--------------");
-                        console.log("Song: " + response.tracks.items[x].name);
+                        console.log("Song: " + element.name);
                         //console.log("--------------");
-                        console.log("Spotify Link: " + response.tracks.items[x].external_urls.spotify);
+                        console.log("Spotify Link: " + element.external_urls.spotify);
                         //console.log("--------------");
-                        console.log("Album: " + response.tracks.items[x].album.name);
+                        console.log("Preview song: "+ element.preview_url)
+                        console.log("Album: " + element.album.name);
                         console.log("--------------");
                         //console.log(x);
                         //console.log("--------------");
                     }
-                }
+                });
             })
             .catch(function (err) {
                 console.log(err);
@@ -96,6 +104,53 @@ switch (userCommand) {
 
     case "do-what-it-says":
         console.log(userCommand);
+        fs.readFile("random.txt", "utf8", function (error, data) {
+            if (error) {
+                return console.log(error);
+            }
+            var dataArr = data.split(",");
+            fileCommand = dataArr[0];
+            fileArg = dataArr[1];
+            var fixed = dataArr[1].slice(1, -1);
+            console.log("command: " + fileCommand);
+            console.log("track: " + fixed);
+            // switch (fileCommand) {
+            //     case "spotify-this-song":
+            //         console.log(fixed);
+            //         spotify
+            //             .search({ type: 'track', query: fixed })
+            //             .then(function (response) {
+            //                 console.log(response);
+            //                 console.log(response.tracks.items[x]);
+            //                 //console.log(response.tracks.items.length);
+            //                 for (var x = 0; x < response.tracks.items.length; x++) {
+            //                     // console.log("Name of song:");
+            //                     // console.log(x);
+            //                     if (song === response.tracks.items[x].name) {
+            //                         //console.log("Exact Match Songs:");
+            //                         // console.log(response.tracks.items[x]);
+            //                         console.log("--------------");
+            //                         console.log("Artist: " + response.tracks.items[x].artists[0].name);
+            //                         //console.log("--------------");
+            //                         console.log("Song: " + response.tracks.items[x].name);
+            //                         //console.log("--------------");
+            //                         console.log("Spotify Link: " + response.tracks.items[x].external_urls.spotify);
+            //                         //console.log("--------------");
+            //                         console.log("Album: " + response.tracks.items[x].album.name);
+            //                         console.log("--------------");
+            //                         //console.log(x);
+            //                         //console.log("--------------");
+            //                     }
+            //                 }
+            //             })
+            //             .catch(function (err) {
+            //                 console.log(err);
+            //             });
+
+
+            // }
+
+        });
         break;
 
     //case default:
