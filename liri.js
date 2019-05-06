@@ -147,7 +147,7 @@ function movieThis(movieName) {
 }
 
 function logFile(results, command) {
-    fs.appendFile("log.txt", command +" "+ JSON.stringify(results, null, 2), function (err) {
+    fs.appendFile("log.txt", "\n"+command +"\n"+ JSON.stringify(results, null, 2), function (err) {
 
         // If an error was experienced we will log it.
         if (err) {

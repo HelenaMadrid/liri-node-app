@@ -1,687 +1,456 @@
-movie-this{
-  "Title": "The Lion King",
-  "Year": "1994",
-  "IMDBRating": "8.5",
-  "RottenTomatoesRating": "93%",
-  "ProducedIn": "USA",
-  "Language": "English, Swahili, Xhosa, Zulu",
-  "Plot": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
-  "Actors": "Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings"
-}movie-this {
-  "Title": "The Lion King",
-  "Year": "1994",
-  "IMDBRating": "8.5",
-  "RottenTomatoesRating": "93%",
-  "ProducedIn": "USA",
-  "Language": "English, Swahili, Xhosa, Zulu",
-  "Plot": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
-  "Actors": "Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings"
-}spotify-this-song {
-  "Artist": "Ace of Base",
-  "Song": "The Sign",
-  "Spotify": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "The Sign (US Album) [Remastered]"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-05-30T20:00:07"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-01T20:00:00"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-02T20:00:51"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-06T20:00:24"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-08T20:00:53"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 1 and June 2)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-02T20:00:42"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-14T20:00:30"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-15T20:00:05"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 14 and June 15)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-15T20:00:28"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-17T20:00:22"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-19T20:00:14"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-20T20:00:19"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 19 and October 20)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-20T20:00:21"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-23T20:00:57"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-25T20:00:58"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-26T20:00:47"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 25 and October 26)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-26T20:00:56"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-31T20:00:36"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-02T20:00:26"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-03T20:00:31"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 2 and November 3)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-03T20:00:50"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-06T20:00:21"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-09T20:00:41"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-09T20:00:31"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 8 and November 9)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-09T20:00:35"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-08T20:00:06"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-12T20:00:47"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 8 and June 9)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-09T20:00:50"
-}do-what-it-says {
-  "Artist": "MISSIO",
-  "Song": "Underground",
-  "Spotify": "https://open.spotify.com/track/3GjLecyioIsSt0EaNecctC",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/8c9ed16d8a96ee9f10df6e5bb86076260f898946?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "The Darker The Weather // The Better The Man"
-}do-what-it-says {
-  "Artist": "Billie Eilish",
-  "Song": "bellyache",
-  "Spotify": "https://open.spotify.com/track/51NFxnQvaosfDDutk0tams",
-  "PreviewSong": null,
-  "Album": "Bellyache"
-}do-what-it-says {
-  "Artist": "Yak",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/6FdxPwk2EQji00bYLkiTT7",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/e533586dc911590c05da7b34675b7807ec7e81ee?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "Pursuit of Momentary Happiness"
-}do-what-it-says {
-  "Artist": "Stanford Mixed Company",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/27AKQEtShfQ4gW7vPTyYnS",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/1d293263107913e7d97a13d7634939a4739710ce?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "All Things Go"
-}do-what-it-says {
-  "Artist": "Yak",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/0YTg3AMEGqxVA9667SREj7",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/e533586dc911590c05da7b34675b7807ec7e81ee?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "Bellyache"
-}do-what-it-says {
-  "Artist": "Ramifications",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/28zhT39pkJQRrjQRDvjv3t",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/8484edd8809a92ad784112f2bf694d31764d17cd?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "Genesis"
-}do-what-it-says {
-  "Artist": "Yak",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/2xfwzZkGmk4QI1zrH9vF7F",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/e533586dc911590c05da7b34675b7807ec7e81ee?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "Bellyache"
-}do-what-it-says {
-  "Artist": "Bianca Sheko",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/3JC4ckOylOzFTotnSlwoXA",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/77032c7b4eb529d9d4ffaaf99aab097851783c88?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "Bellyache"
-}do-what-it-says {
-  "Artist": "Echobelly",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/3XPygKZBH3cgeDr2AMJpzt",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/c244671b9359781f6e03a6cc0dfadb2f9483c6a9?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "Everyone's Got One"
-}do-what-it-says {
-  "Artist": "Laura Buitrago",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/15HsuPflpnoDpG9a5Gq2lv",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/7f11c0ecc06180d5b92ad21e7b1001f70b9e34fc?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "Bellyache"
-}do-what-it-says {
-  "Artist": "AQ-PD Crossing Quartet",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/7wX9podQrlRYZkFyiZ9TMX",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/95d1fef31a74633884402fc330c7aebc35adee78?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "Low Coast"
-}do-what-it-says {
-  "Artist": "Suave Gap",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/02pjQYZFBRDKaQVjOftKZq",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/614b2f07668b27f22947104eff281dfac33486ba?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "Twenty Four Seven"
-}do-what-it-says {
-  "Artist": "The Virginia Sil'hooettes",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/1mtWYl8K4yFRsrcXQ0Qz2X",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/37af669cf716ab776d0697538b8d1646c76a6e4d?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "Silver Hour"
-}do-what-it-says {
-  "Artist": "Sophie Milch",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/5gPJfns1bjFEHXCgA4ZEwZ",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/0682a51cd9599b8c5949713b0e382c8d2d6823ad?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "Honey"
-}do-what-it-says {
-  "Artist": "Ernest",
-  "Song": "Bellyache",
-  "Spotify": "https://open.spotify.com/track/1NIjU6vqJaTsVTqYnI5xdO",
-  "PreviewSong": "https://p.scdn.co/mp3-preview/9ea39d1b75563b2452da2db7d98509538e56d3df?cid=a2f0b7d90b884f49bb5b5734d32692d7",
-  "Album": "Bellyache"
-}do-what-it-says {
-  "Artist": "Billie Eilish",
-  "Song": "bellyache",
-  "Spotify": "https://open.spotify.com/track/1ni8ZTAY1GHXEFOGHl7fdg",
-  "PreviewSong": null,
-  "Album": "dont smile at me"
-}do-what-it-says {
-  "Artist": "Billie Eilish",
-  "Song": "bellyache",
-  "Spotify": "https://open.spotify.com/track/5MxxLaY57CzJ7t5doYyroT",
-  "PreviewSong": null,
-  "Album": "Chill Wind Down"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-05-30T20:00:07"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-06T20:00:24"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-08T20:00:53"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-09T20:00:41"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 8 and June 9)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-09T20:00:50"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-12T20:00:47"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 1 and June 2)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-02T20:00:42"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-15T20:00:05"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 14 and June 15)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-15T20:00:28"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-17T20:00:22"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-19T20:00:14"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-20T20:00:19"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 19 and October 20)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-20T20:00:21"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-23T20:00:57"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-25T20:00:58"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-26T20:00:47"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 25 and October 26)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-26T20:00:56"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-31T20:00:36"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-02T20:00:26"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-03T20:00:31"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 2 and November 3)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-03T20:00:50"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-06T20:00:21"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-08T20:00:06"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-09T20:00:31"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 8 and November 9)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-09T20:00:35"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-01T20:00:00"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-14T20:00:30"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-02T20:00:51"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-05-30T20:00:07"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-01T20:00:00"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-02T20:00:51"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-06T20:00:24"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 8 and June 9)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-09T20:00:50"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-12T20:00:47"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-14T20:00:30"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-15T20:00:05"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 14 and June 15)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-15T20:00:28"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-17T20:00:22"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-19T20:00:14"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-20T20:00:19"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 19 and October 20)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-20T20:00:21"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-23T20:00:57"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-25T20:00:58"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-26T20:00:47"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 25 and October 26)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-26T20:00:56"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-10-31T20:00:36"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-02T20:00:26"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-03T20:00:31"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 2 and November 3)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-03T20:00:50"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-06T20:00:21"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-08T20:00:06"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-09T20:00:31"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 8 and November 9)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-11-09T20:00:35"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-09T20:00:41"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-08T20:00:53"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 1 and June 2)",
-  "Location": "Las Vegas, United States",
-  "Date": "2019-06-02T20:00:42"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "May 30, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "June 1, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "June 8, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "June 9, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 8 and June 9)",
-  "Location": "Las Vegas, United States",
-  "Date": "June 9, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "June 12, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "June 14, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "June 2, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 14 and June 15)",
-  "Location": "Las Vegas, United States",
-  "Date": "June 15, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "October 17, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "October 19, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "October 20, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 19 and October 20)",
-  "Location": "Las Vegas, United States",
-  "Date": "October 20, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "October 23, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "October 25, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "October 26, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 25 and October 26)",
-  "Location": "Las Vegas, United States",
-  "Date": "October 26, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "October 31, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "June 15, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "November 3, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 2 and November 3)",
-  "Location": "Las Vegas, United States",
-  "Date": "November 3, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "November 6, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "November 8, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA JAZZ & PIANO",
-  "Location": "Las Vegas, United States",
-  "Date": "November 9, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 8 and November 9)",
-  "Location": "Las Vegas, United States",
-  "Date": "November 9, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "June 6, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 1 and June 2)",
-  "Location": "Las Vegas, United States",
-  "Date": "June 2, 2019 8:00 PM"
-}concert-this {
-  "Artist": "Lady Gaga",
-  "Venue": "LADY GAGA ENIGMA",
-  "Location": "Las Vegas, United States",
-  "Date": "November 2, 2019 8:00 PM"
+
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "STAPLES Center",
+  "Location": "Los Angeles, United States",
+  "Date": "May 6, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Staples Center",
+  "Location": "Los Angeles, United States",
+  "Date": "May 7, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Talking Stick Resort Arena",
+  "Location": "Phoenix, United States",
+  "Date": "May 14, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Toyota Center",
+  "Location": "Houston, United States",
+  "Date": "May 19, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "American Airlines Center",
+  "Location": "Dallas, United States",
+  "Date": "May 21, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "AT&T Center",
+  "Location": "San Antonio, United States",
+  "Date": "May 17, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Smoothie King Center",
+  "Location": "New Orleans, United States",
+  "Date": "May 25, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Amalie Arena",
+  "Location": "Tampa, United States",
+  "Date": "May 28, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Amway Center",
+  "Location": "Orlando, United States",
+  "Date": "May 29, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "American Airlines Arena",
+  "Location": "Miami, United States",
+  "Date": "May 31, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "American Airlines Arena",
+  "Location": "Miami, United States",
+  "Date": "June 1, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "United Center",
+  "Location": "Chicago, United States",
+  "Date": "June 4, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "United Center",
+  "Location": "Chicago, United States",
+  "Date": "June 5, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Bridgestone Arena",
+  "Location": "Nashville, United States",
+  "Date": "June 7, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "State Farm Arena",
+  "Location": "Atlanta, United States",
+  "Date": "June 8, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Spectrum Center",
+  "Location": "Charlotte, United States",
+  "Date": "June 10, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "PPG Paints Arena",
+  "Location": "Pittsburgh, United States",
+  "Date": "June 12, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Barclays Center",
+  "Location": "Brooklyn, United States",
+  "Date": "June 14, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Barclays Center",
+  "Location": "Brooklyn, United States",
+  "Date": "June 15, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "T-Mobile Arena",
+  "Location": "Las Vegas, United States",
+  "Date": "May 11, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Madison Square Garden",
+  "Location": "New York, United States",
+  "Date": "June 19, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Capital One Arena",
+  "Location": "Washington, United States",
+  "Date": "June 21, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "TD Garden",
+  "Location": "Boston, United States",
+  "Date": "June 22, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Wells Fargo Center",
+  "Location": "Philadelphia, United States",
+  "Date": "June 24, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Scotiabank Arena",
+  "Location": "Toronto, Canada",
+  "Date": "June 26, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Bankers Life Fieldhouse",
+  "Location": "Indianapolis, United States",
+  "Date": "June 29, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "The Schottenstein Center",
+  "Location": "Columbus, United States",
+  "Date": "July 1, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Fiserv Forum",
+  "Location": "Milwaukee, United States",
+  "Date": "July 5, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Enterprise Center",
+  "Location": "St. Louis, United States",
+  "Date": "July 6, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Xcel Energy Center",
+  "Location": "St Paul, United States",
+  "Date": "July 8, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Pepsi Center",
+  "Location": "Denver, United States",
+  "Date": "July 11, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Vivint Smart Home Arena",
+  "Location": "Salt Lake City, United States",
+  "Date": "July 13, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Chesapeake Energy Arena",
+  "Location": "Oklahoma City, United States",
+  "Date": "May 23, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Lollapalooza",
+  "Location": "Chicago, United States",
+  "Date": "August 4, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "The O2 Arena",
+  "Location": "London, United Kingdom",
+  "Date": "August 17, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "The O2",
+  "Location": "London, United Kingdom",
+  "Date": "August 19, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "The O2 Arena",
+  "Location": "London, United Kingdom",
+  "Date": "August 20, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Ziggo Dome",
+  "Location": "Amsterdam, Netherlands",
+  "Date": "August 23, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Grant Park",
+  "Location": "Chicago, United States",
+  "Date": "August 3, 2019 12:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "AccorHotels Arena",
+  "Location": "Paris, France",
+  "Date": "August 27, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "AccorHotels Arena",
+  "Location": "Paris, France",
+  "Date": "August 28, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Sportpaleis Antwerpen",
+  "Location": "Antwerpen, Belgium",
+  "Date": "August 30, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Ziggo Dome",
+  "Location": "Amsterdam, Netherlands",
+  "Date": "August 24, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Stadthalle",
+  "Location": "Vienna, Austria",
+  "Date": "September 3, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Barclaycard Arena",
+  "Location": "Hamburg, Germany",
+  "Date": "September 5, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "The Forum",
+  "Location": "Los Angeles, United States",
+  "Date": "May 10, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Tauron Arena",
+  "Location": "Kraków, Poland",
+  "Date": "September 9, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Lanxess Arena",
+  "Location": "Köln, Germany",
+  "Date": "September 1, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Arena Birmingham",
+  "Location": "Birmingham, United Kingdom",
+  "Date": "September 14, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Arena Birmingham",
+  "Location": "Birmingham, United Kingdom",
+  "Date": "September 15, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "The SSE Hydro",
+  "Location": "Glasgow, United Kingdom",
+  "Date": "September 17, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "FlyDSA Arena",
+  "Location": "Sheffield, United Kingdom",
+  "Date": "September 19, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "3Arena",
+  "Location": "Dublin, Ireland",
+  "Date": "September 22, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "3Arena",
+  "Location": "Dublin, Ireland",
+  "Date": "September 23, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "3Arena",
+  "Location": "Dublin, Ireland",
+  "Date": "September 25, 2019 6:30 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Barclaycard Arena",
+  "Location": "Hamburg, Germany",
+  "Date": "September 28, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Royal Arena",
+  "Location": "Copenhagen, Denmark",
+  "Date": "October 1, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "O2 arena",
+  "Location": "Praha 9, Czech Republic",
+  "Date": "September 8, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Hartwall Arena",
+  "Location": "Hki, Finland",
+  "Date": "October 5, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Ericsson Globe",
+  "Location": "Stockholm, Sweden",
+  "Date": "October 7, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Mercedes-Benz-Arena",
+  "Location": "Berlin, Germany",
+  "Date": "October 10, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Hallenstadion",
+  "Location": "Zürich, Switzerland",
+  "Date": "October 13, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Ziggo Dome",
+  "Location": "Amsterdam, Netherlands",
+  "Date": "September 11, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Madison Square Garden",
+  "Location": "New York, United States",
+  "Date": "June 18, 2019 7:00 PM"
+}
+do-what-it-says
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Telenor Arena",
+  "Location": "Oslo, Norway",
+  "Date": "October 3, 2019 7:00 PM"
 }
