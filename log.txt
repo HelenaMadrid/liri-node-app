@@ -264,4 +264,424 @@ movie-this{
   "Spotify": "https://open.spotify.com/track/5MxxLaY57CzJ7t5doYyroT",
   "PreviewSong": null,
   "Album": "Chill Wind Down"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-05-30T20:00:07"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-06T20:00:24"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-08T20:00:53"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-09T20:00:41"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 8 and June 9)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-09T20:00:50"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-12T20:00:47"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 1 and June 2)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-02T20:00:42"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-15T20:00:05"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 14 and June 15)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-15T20:00:28"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-17T20:00:22"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-19T20:00:14"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-20T20:00:19"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 19 and October 20)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-20T20:00:21"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-23T20:00:57"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-25T20:00:58"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-26T20:00:47"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 25 and October 26)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-26T20:00:56"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-31T20:00:36"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-02T20:00:26"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-03T20:00:31"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 2 and November 3)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-03T20:00:50"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-06T20:00:21"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-08T20:00:06"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-09T20:00:31"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 8 and November 9)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-09T20:00:35"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-01T20:00:00"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-14T20:00:30"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-02T20:00:51"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-05-30T20:00:07"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-01T20:00:00"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-02T20:00:51"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-06T20:00:24"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 8 and June 9)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-09T20:00:50"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-12T20:00:47"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-14T20:00:30"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-15T20:00:05"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 14 and June 15)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-15T20:00:28"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-17T20:00:22"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-19T20:00:14"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-20T20:00:19"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 19 and October 20)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-20T20:00:21"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-23T20:00:57"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-25T20:00:58"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-26T20:00:47"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 25 and October 26)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-26T20:00:56"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-10-31T20:00:36"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-02T20:00:26"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-03T20:00:31"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 2 and November 3)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-03T20:00:50"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-06T20:00:21"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-08T20:00:06"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-09T20:00:31"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 8 and November 9)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-11-09T20:00:35"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-09T20:00:41"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-08T20:00:53"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 1 and June 2)",
+  "Location": "Las Vegas, United States",
+  "Date": "2019-06-02T20:00:42"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "May 30, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "June 1, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "June 8, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "June 9, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 8 and June 9)",
+  "Location": "Las Vegas, United States",
+  "Date": "June 9, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "June 12, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "June 14, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "June 2, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 14 and June 15)",
+  "Location": "Las Vegas, United States",
+  "Date": "June 15, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "October 17, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "October 19, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "October 20, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 19 and October 20)",
+  "Location": "Las Vegas, United States",
+  "Date": "October 20, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "October 23, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "October 25, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "October 26, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, October 25 and October 26)",
+  "Location": "Las Vegas, United States",
+  "Date": "October 26, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "October 31, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "June 15, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "November 3, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 2 and November 3)",
+  "Location": "Las Vegas, United States",
+  "Date": "November 3, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "November 6, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "November 8, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA JAZZ & PIANO",
+  "Location": "Las Vegas, United States",
+  "Date": "November 9, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, November 8 and November 9)",
+  "Location": "Las Vegas, United States",
+  "Date": "November 9, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "June 6, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ & PIANO (includes both shows, June 1 and June 2)",
+  "Location": "Las Vegas, United States",
+  "Date": "June 2, 2019 8:00 PM"
+}concert-this {
+  "Artist": "Lady Gaga",
+  "Venue": "LADY GAGA ENIGMA",
+  "Location": "Las Vegas, United States",
+  "Date": "November 2, 2019 8:00 PM"
 }

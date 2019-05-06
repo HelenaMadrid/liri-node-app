@@ -102,7 +102,10 @@ function concertThis(artist) {
             for (var x = 0; x < response.data.length; x++) {
                 var resultNum = x + 1;
                 //console.log(moment().format(response.data[x].datetime));
-                var results = { Artist: response.data[x].lineup[0], Venue: response.data[x].venue.name, Location: response.data[x].venue.city + ", " + response.data[x].venue.country, Date: response.data[x].datetime }
+                var date= response.data[x].datetime.replace("T", " ");
+                //console.log(date);
+                //console.log(moment(date).format('LLL'));
+                var results = { Artist: response.data[x].lineup[0], Venue: response.data[x].venue.name, Location: response.data[x].venue.city + ", " + response.data[x].venue.country, Date: moment(date).format('LLL') }
                 console.log(JSON.stringify(results, null, 2));
                 logFile(results, userCommand);
 
