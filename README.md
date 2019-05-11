@@ -74,17 +74,12 @@ You can use the following commands:
 * When the random.txt file has **'concert-this**,"jonas brothers" it will input:
 
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/random-concert-this.png "random-concert-this")
-![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/do-what-it-says-movie-this-lion-king.gif "random-concert-this jonas brothers")
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/do-what-it-says-concert-this-jonas-brothers.gif "random-concert-this jonas brothers")
 
 * When the random.txt file has **'spotify-this-song**,"bad romance" it will input:
 
-![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/random-spotify-this-song-bad-romance.png "random-spotify-this-song")
-![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/do-what-it-says-movie-this-lion-king.gif "random-spotify-this-song bad romance")
-
-
-
-
-
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/random-spotify.png "random-spotify-this-song")
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/do-what-it-says-spotify-this-song-bad-romance.gif "random-spotify-this-song bad romance")
 
 ## Authors
 
