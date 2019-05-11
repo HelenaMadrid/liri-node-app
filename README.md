@@ -80,6 +80,11 @@ You can use the following commands:
 
 **Log.txt**
 * All the results from the user searches are addded into a document called "log.txt". At first, the document doesn't exists but it's creater after the first result is delivered.
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/with log text.png "random-spotify-this-song bad romance")
+
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/do-what-it-says-spotify-this-song-bad-romance.gif "random-spotify-this-song bad romance")
+
+
 
 ## Authors
 
