@@ -88,6 +88,8 @@ You can use the following commands:
 
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/log-text.gif "log.txt content")
 
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/open-log.gif "log.txt content")
+
 
 ## Authors
 
