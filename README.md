@@ -32,21 +32,25 @@ You can use the following commands:
 * See it in action gif: 
 
 
-**Concert-this**
+**concert-this**
 
 * The user is searching for concert information about Ariana Grande.
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/concert-this-ariana-grande.gif "concert-this ariana grande")
 
-* The user gave no argument after the command.
-![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/concert-this-empty.gif "concert-this")
-
 * The user inputs an artist but although the artist is found, the response came back empty.
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/concert-this-christina-aguilera.gif "concert-this christina aguilera")
 
+* The user gave no argument after the command.
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/concert-this-empty.gif "concert-this")
 
 
+**spotify-this-song**
 
-![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/concert-this-christina-aguilera.gif "concert-this ariana grande")
+* The user is searching for information about any song that matches the name that the user input, in this case, any song with the name **bellyache** will be printed.
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/spotify-this-song-bellyache-short.gif "spotify-this-song bellyache")
+
+* The user gave no argument after the command, so it will print information about the song of Ace of Base "Sign".
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/spotify-this-song-empty.gif "spotify-this-song")
 
 
 
