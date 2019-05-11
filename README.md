@@ -66,8 +66,24 @@ You can use the following commands:
 
 **do-what-it-says**
 
-* When the random.txt file has:
+* When the random.txt file has **'movie-this**,"the lion king" it will input:
+
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/random-movie-this.png "random-movie-this")
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/do-what-it-says-movie-this-lion-king.gif "random-movie-this lion king")
+
+* When the random.txt file has **'concert-this**,"jonas brothers" it will input:
+
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/random-concert-this.png "random-concert-this")
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/do-what-it-says-movie-this-lion-king.gif "random-concert-this jonas brothers")
+
+* When the random.txt file has **'spotify-this-song**,"bad romance" it will input:
+
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/random-spotify-this-song-bad-romance.png "random-spotify-this-song")
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/do-what-it-says-movie-this-lion-king.gif "random-spotify-this-song bad romance")
+
+
+
+
 
 
 ## Authors
