@@ -34,14 +34,17 @@ You can use the following commands:
 
 **Concert-this**
 
-*The user is searching for concert information about Ariana Grande.
+* The user is searching for concert information about Ariana Grande.
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/concert-this-ariana-grande.gif "concert-this ariana grande")
 
-*The user gave no argument after the command.
-![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/concert-this-empty.gif "concert-this ariana grande")
+* The user gave no argument after the command.
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/concert-this-empty.gif "concert-this")
 
-*The user inputs an artist but although the artist is found, the response came back empty.
-![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/concert-this-ariana-grande.gif "concert-this ariana grande")
+* The user inputs an artist but although the artist is found, the response came back empty.
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/concert-this-christina-aguilera.gif "concert-this christina aguilera")
+
+
+
 
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/concert-this-christina-aguilera.gif "concert-this ariana grande")
 
