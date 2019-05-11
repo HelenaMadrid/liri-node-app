@@ -84,8 +84,9 @@ You can use the following commands:
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/without-log-txt.png "directory without log.txt")
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/with-log-txt.png "directory with log.txt")
 
+* We can check the results of all the requests that the user has input.
 
-
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/log-text.gif "log.txt content")
 
 
 ## Authors
