@@ -30,12 +30,14 @@ You can use the following commands:
 ## Working proof
 
 * See it in action gif: 
+
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/concert-this ariana grande.gif "concert-this ariana grande")
 
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/images/blob/master/concert-this ariana grande.gif "concert-this ariana grande")
 
-![alt text](https://github.com/HelenaMadrid/liri-node-app/images/concert-this ariana grande.gif "concert-this ariana grande")
+![alt text](concert-this ariana grande.gif "concert-this ariana grande")
 
+![alt text](https://github.com/HelenaMadrid/liri-node-app/images/concert-this ariana grande.gif "concert-this ariana grande")
 
 
 
