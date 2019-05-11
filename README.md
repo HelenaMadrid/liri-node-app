@@ -64,20 +64,16 @@ You can use the following commands:
 
 * Note: The user needs to input the complete name of the movie to guarantee the correct movie information is printed. This is because when dealing with sagas or movies with similar titles, only the last movie that matched will be printed. For example, if I were to look for The Lord of The Rings' first movie "The Fellowship of the Ring", but only wrote "The lord of the rings", you would get the movie which name is exactly just that, which in this case is a 1978 movie, instead of the newer ones. To find this particular movie, I would have to input "the lord of the rings: the fellowship of the ring" or "the fellowship of the ring"
 
+**do-what-it-says**
 
-
-
-
-
+* When the random.txt file has:
+![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/random-movie-this.png "random-movie-this")
 
 
 ## Authors
 
 * **Débora Helena Madrid Morales** - [HelenaMadrid](https://github.com/HelenaMadrid)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## URLS
 
