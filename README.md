@@ -40,8 +40,6 @@ You can use the following commands:
 
 * **Débora Helena Madrid Morales** - [HelenaMadrid](https://github.com/HelenaMadrid)
 
-See also the list of [contributors](https://github.com/darkyer/liri-node-app/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
