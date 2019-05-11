@@ -1,0 +1,836 @@
+
+
+spotify-this-song bellyache
+{
+  "Artist": "Billie Eilish",
+  "Song": "bellyache",
+  "Spotify": "https://open.spotify.com/track/51NFxnQvaosfDDutk0tams",
+  "PreviewSong": null,
+  "Album": "Bellyache"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Billie Eilish",
+  "Song": "bellyache",
+  "Spotify": "https://open.spotify.com/track/5MxxLaY57CzJ7t5doYyroT",
+  "PreviewSong": null,
+  "Album": "Chill Wind Down"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Stanford Mixed Company",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/27AKQEtShfQ4gW7vPTyYnS",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/1d293263107913e7d97a13d7634939a4739710ce?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "All Things Go"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Yak",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/2xfwzZkGmk4QI1zrH9vF7F",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/e533586dc911590c05da7b34675b7807ec7e81ee?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Bellyache"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Yak",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/0YTg3AMEGqxVA9667SREj7",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/e533586dc911590c05da7b34675b7807ec7e81ee?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Bellyache"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Ramifications",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/28zhT39pkJQRrjQRDvjv3t",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/8484edd8809a92ad784112f2bf694d31764d17cd?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Genesis"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Laura Buitrago",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/15HsuPflpnoDpG9a5Gq2lv",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/7f11c0ecc06180d5b92ad21e7b1001f70b9e34fc?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Bellyache"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Bianca Sheko",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/3JC4ckOylOzFTotnSlwoXA",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/77032c7b4eb529d9d4ffaaf99aab097851783c88?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Bellyache"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Echobelly",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/3XPygKZBH3cgeDr2AMJpzt",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/c244671b9359781f6e03a6cc0dfadb2f9483c6a9?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Everyone's Got One"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "The Virginia Sil'hooettes",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/1mtWYl8K4yFRsrcXQ0Qz2X",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/37af669cf716ab776d0697538b8d1646c76a6e4d?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Silver Hour"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "AQ-PD Crossing Quartet",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/7wX9podQrlRYZkFyiZ9TMX",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/95d1fef31a74633884402fc330c7aebc35adee78?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Low Coast"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Suave Gap",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/02pjQYZFBRDKaQVjOftKZq",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/614b2f07668b27f22947104eff281dfac33486ba?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Twenty Four Seven"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Ernest",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/1NIjU6vqJaTsVTqYnI5xdO",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/9ea39d1b75563b2452da2db7d98509538e56d3df?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Bellyache"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Nightcore Red",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/6ADCHfwBNKx3XgwjZKgi61",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/2f2db2975cd1f1c20c8ac8d9366443f480402693?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Bellyache"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Yak",
+  "Song": "Bellyache",
+  "Spotify": "https://open.spotify.com/track/6FdxPwk2EQji00bYLkiTT7",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/e533586dc911590c05da7b34675b7807ec7e81ee?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Pursuit of Momentary Happiness"
+}
+
+spotify-this-song bellyache
+{
+  "Artist": "Billie Eilish",
+  "Song": "bellyache",
+  "Spotify": "https://open.spotify.com/track/1ni8ZTAY1GHXEFOGHl7fdg",
+  "PreviewSong": null,
+  "Album": "dont smile at me"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "T-Mobile Arena",
+  "Location": "Las Vegas, United States",
+  "Date": "May 11, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "AT&T Center",
+  "Location": "San Antonio, United States",
+  "Date": "May 17, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Talking Stick Resort Arena",
+  "Location": "Phoenix, United States",
+  "Date": "May 14, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Toyota Center",
+  "Location": "Houston, United States",
+  "Date": "May 19, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Smoothie King Center",
+  "Location": "New Orleans, United States",
+  "Date": "May 25, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "American Airlines Center",
+  "Location": "Dallas, United States",
+  "Date": "May 21, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Chesapeake Energy Arena",
+  "Location": "Oklahoma City, United States",
+  "Date": "May 23, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Amalie Arena",
+  "Location": "Tampa, United States",
+  "Date": "May 28, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "American Airlines Arena",
+  "Location": "Miami, United States",
+  "Date": "May 31, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Amway Center",
+  "Location": "Orlando, United States",
+  "Date": "May 29, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "United Center",
+  "Location": "Chicago, United States",
+  "Date": "June 4, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "United Center",
+  "Location": "Chicago, United States",
+  "Date": "June 5, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "State Farm Arena",
+  "Location": "Atlanta, United States",
+  "Date": "June 8, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Spectrum Center",
+  "Location": "Charlotte, United States",
+  "Date": "June 10, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "American Airlines Arena",
+  "Location": "Miami, United States",
+  "Date": "June 1, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Barclays Center",
+  "Location": "Brooklyn, United States",
+  "Date": "June 14, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Barclays Center",
+  "Location": "Brooklyn, United States",
+  "Date": "June 15, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Madison Square Garden",
+  "Location": "New York, United States",
+  "Date": "June 19, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Capital One Arena",
+  "Location": "Washington, United States",
+  "Date": "June 21, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "TD Garden",
+  "Location": "Boston, United States",
+  "Date": "June 22, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Wells Fargo Center",
+  "Location": "Philadelphia, United States",
+  "Date": "June 24, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Scotiabank Arena",
+  "Location": "Toronto, Canada",
+  "Date": "June 26, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Bankers Life Fieldhouse",
+  "Location": "Indianapolis, United States",
+  "Date": "June 29, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "The Schottenstein Center",
+  "Location": "Columbus, United States",
+  "Date": "July 1, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Fiserv Forum",
+  "Location": "Milwaukee, United States",
+  "Date": "July 5, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Enterprise Center",
+  "Location": "St. Louis, United States",
+  "Date": "July 6, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Xcel Energy Center",
+  "Location": "St Paul, United States",
+  "Date": "July 8, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Pepsi Center",
+  "Location": "Denver, United States",
+  "Date": "July 11, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Vivint Smart Home Arena",
+  "Location": "Salt Lake City, United States",
+  "Date": "July 13, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Grant Park",
+  "Location": "Chicago, United States",
+  "Date": "August 3, 2019 12:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Lollapalooza",
+  "Location": "Chicago, United States",
+  "Date": "August 4, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "The O2 Arena",
+  "Location": "London, United Kingdom",
+  "Date": "August 17, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "The O2",
+  "Location": "London, United Kingdom",
+  "Date": "August 19, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "The O2 Arena",
+  "Location": "London, United Kingdom",
+  "Date": "August 20, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Ziggo Dome",
+  "Location": "Amsterdam, Netherlands",
+  "Date": "August 23, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Ziggo Dome",
+  "Location": "Amsterdam, Netherlands",
+  "Date": "August 24, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "AccorHotels Arena",
+  "Location": "Paris, France",
+  "Date": "August 27, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "AccorHotels Arena",
+  "Location": "Paris, France",
+  "Date": "August 28, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Sportpaleis Antwerpen",
+  "Location": "Antwerpen, Belgium",
+  "Date": "August 30, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Lanxess Arena",
+  "Location": "Köln, Germany",
+  "Date": "September 1, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Stadthalle",
+  "Location": "Vienna, Austria",
+  "Date": "September 3, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Barclaycard Arena",
+  "Location": "Hamburg, Germany",
+  "Date": "September 5, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "O2 arena",
+  "Location": "Praha 9, Czech Republic",
+  "Date": "September 8, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Tauron Arena",
+  "Location": "Kraków, Poland",
+  "Date": "September 9, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Ziggo Dome",
+  "Location": "Amsterdam, Netherlands",
+  "Date": "September 11, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Arena Birmingham",
+  "Location": "Birmingham, United Kingdom",
+  "Date": "September 14, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Arena Birmingham",
+  "Location": "Birmingham, United Kingdom",
+  "Date": "September 15, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "The SSE Hydro",
+  "Location": "Glasgow, United Kingdom",
+  "Date": "September 17, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "FlyDSA Arena",
+  "Location": "Sheffield, United Kingdom",
+  "Date": "September 19, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "3Arena",
+  "Location": "Dublin, Ireland",
+  "Date": "September 22, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "3Arena",
+  "Location": "Dublin, Ireland",
+  "Date": "September 23, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "3Arena",
+  "Location": "Dublin, Ireland",
+  "Date": "September 25, 2019 6:30 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Barclaycard Arena",
+  "Location": "Hamburg, Germany",
+  "Date": "September 28, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Royal Arena",
+  "Location": "Copenhagen, Denmark",
+  "Date": "October 1, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Telenor Arena",
+  "Location": "Oslo, Norway",
+  "Date": "October 3, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Hartwall Arena",
+  "Location": "Hki, Finland",
+  "Date": "October 5, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Ericsson Globe",
+  "Location": "Stockholm, Sweden",
+  "Date": "October 7, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Mercedes-Benz-Arena",
+  "Location": "Berlin, Germany",
+  "Date": "October 10, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Hallenstadion",
+  "Location": "Zürich, Switzerland",
+  "Date": "October 13, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Bridgestone Arena",
+  "Location": "Nashville, United States",
+  "Date": "June 7, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "PPG Paints Arena",
+  "Location": "Pittsburgh, United States",
+  "Date": "June 12, 2019 7:00 PM"
+}
+
+concert-this ariana grande
+{
+  "Artist": "Ariana Grande",
+  "Venue": "Madison Square Garden",
+  "Location": "New York, United States",
+  "Date": "June 18, 2019 7:00 PM"
+}
+
+movie-this battle+angel
+{
+  "Title": "Alita: Battle Angel",
+  "Year": "2019",
+  "IMDBRating": "7.6",
+  "RottenTomatoesRating": "60%",
+  "ProducedIn": "USA",
+  "Language": "English, Spanish",
+  "Plot": "A deactivated female cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is.",
+  "Actors": "Rosa Salazar, Christoph Waltz, Jennifer Connelly, Mahershala Ali"
+}
+
+do-what-it-says the lion king
+{
+  "Title": "The Lion King",
+  "Year": "1994",
+  "IMDBRating": "8.5",
+  "RottenTomatoesRating": "93%",
+  "ProducedIn": "USA",
+  "Language": "English, Swahili, Xhosa, Zulu",
+  "Plot": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
+  "Actors": "Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Lady Gaga",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/5P5cGNzqh6A353N3ShDK6Y",
+  "PreviewSong": null,
+  "Album": "The Fame Monster"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Lady Gaga",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/1WP9BnIr6SbcneveMTedPj",
+  "PreviewSong": null,
+  "Album": "The Fame Monster (Deluxe)"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Lady Gaga",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/4KpIWPcahCjU0bkaaS4os9",
+  "PreviewSong": null,
+  "Album": "The Fame Monster"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Scott Bradlee's Postmodern Jukebox",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/5xrHvVmSF3ui0EKI8FArv3",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/a5b746f14ec25fb04c620d5e77e8b3266c804f75?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Emoji Antique"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "The Chipmunks & The Chipettes",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/4uWkPwumtRvims6GK3gjHr",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/9ab14d89253a62a516f6f11ae72dd2a25e4c73bb?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Chipwrecked (Music From The Motion Picture)"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Halestorm",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/ab19194a98bd529b5cce16303365662676badd1e?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "ReAniMate: The CoVeRs eP"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Lady Gaga",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/34dAuFhftSbjLWksf8c73i",
+  "PreviewSong": null,
+  "Album": "The Fame Monster"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "On The Rocks",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/1Gdq70zftwyR7AicLQ4lBY",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/1f00305e2b3d7e90ee36b8b5cc86f69f77b7e8c0?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "A Fifth"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Lady Gaga",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/0kv8hQMkkfBlJxHTBIUvhP",
+  "PreviewSong": null,
+  "Album": "Bad Romance"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Artist Vs Poet",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/4srUSbTEbA2aJhEgcw0rqx",
+  "PreviewSong": null,
+  "Album": "Punk Goes Pop, Vol. 3"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Rockabye Baby!",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/7M6Zd2QcpyNdpIJ5tfo2wo",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/336b9149d693e14016c82cb419c7947f3abefa7b?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Lullaby Renditions of Lady Gaga"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Vitamin String Quartet",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/76FjBfcmOUuMoyY8m7NVru",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/61fa09b302104426498989ed7fbaa7ec36aad260?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "VSQ Performs Lady Gaga"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Lissie",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/4VY2DwVDxoBEp26FUUS3ir",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/3279f3091828c61d17696616c874317bf17b1966?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Covered up with Flowers"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Simply Three",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/4NfJKjHvup61eA1um9UZoV",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/6661be45ac8a52eac894eaaf9c9fe62f7b2a1914?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Simply Three"
+}
+
+do-what-it-says bad romance
+{
+  "Artist": "Veil",
+  "Song": "Bad Romance",
+  "Spotify": "https://open.spotify.com/track/4gvspsfveHS7I5Alr2pfp2",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/e79661167dd3cef8de3aba80f2b3a2423f7537a8?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "Bad Romance"
+}
+
+do-what-it-says the lion king
+{
+  "Title": "The Lion King",
+  "Year": "1994",
+  "IMDBRating": "8.5",
+  "RottenTomatoesRating": "93%",
+  "ProducedIn": "USA",
+  "Language": "English, Swahili, Xhosa, Zulu",
+  "Plot": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
+  "Actors": "Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings"
+}
+
+spotify-this-song the sign
+{
+  "Artist": "Ace of Base",
+  "Song": "The Sign",
+  "Spotify": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE",
+  "PreviewSong": "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=a2f0b7d90b884f49bb5b5734d32692d7",
+  "Album": "The Sign (US Album) [Remastered]"
+}
+
+movie-this mr.nobody
+{
+  "Title": "Mr. Nobody",
+  "Year": "2009",
+  "IMDBRating": "7.8",
+  "RottenTomatoesRating": "67%",
+  "ProducedIn": "Belgium, Germany, Canada, France, USA, UK",
+  "Language": "English, Mohawk",
+  "Plot": "A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.",
+  "Actors": "Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham"
+}
+
+concert-this christina aguilera
+"Sorry, there is no concert information about this artist. Please try another."

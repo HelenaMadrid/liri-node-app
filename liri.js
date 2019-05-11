@@ -7,7 +7,8 @@ var dotenv = require("dotenv");
 var keys = require("./keys");
 var spotify = new Spotify(keys.spotify);
 
-var userCommand = process.argv[2];
+var userCommand = process.argv[2].toLowerCase();
+
 
 function spotifyThisSong(song) {
     spotify
@@ -38,6 +39,8 @@ function concertThis(artist) {
             else {
                 for (var x = 0; x < response.data.length; x++) {
                     var resultNum = x + 1;
+                    //console.log(response.data[x])
+                    //console.log(response.data[x].datetime);
                     var date = response.data[x].datetime.replace("T", " ");
                     var results = { Artist: response.data[x].lineup[0], Venue: response.data[x].venue.name, Location: response.data[x].venue.city + ", " + response.data[x].venue.country, Date: moment(date).format('LLL') }
                     console.log(JSON.stringify(results, null, 2));
@@ -46,7 +49,8 @@ function concertThis(artist) {
             }
         })
         .catch(function (error) {
-            console.log(error);
+            //console.log(error);
+            console.log("Sorry, the artist was not found.")
         });
 }
 
@@ -74,6 +78,7 @@ function logFile(results, command, userInput) {
     });
 
 }
+
 switch (userCommand) {
     case "concert-this":
         var artist = process.argv[3] + " " + process.argv[4];
