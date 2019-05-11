@@ -834,3 +834,51 @@ movie-this mr.nobody
 
 concert-this christina aguilera
 "Sorry, there is no concert information about this artist. Please try another."
+
+movie-this the+lord+of+the+rings
+{
+  "Title": "The Lord of the Rings",
+  "Year": "1978",
+  "IMDBRating": "6.2",
+  "RottenTomatoesRating": "50%",
+  "ProducedIn": "USA, UK, Spain",
+  "Language": "English, Sindarin",
+  "Plot": "The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth.",
+  "Actors": "Christopher Guard, William Squire, Michael Scholes, John Hurt"
+}
+
+movie-this the+lord+of+the+rings:+the+fellowship+of+the+ring
+{
+  "Title": "The Lord of the Rings: The Fellowship of the Ring",
+  "Year": "2001",
+  "IMDBRating": "8.8",
+  "RottenTomatoesRating": "91%",
+  "ProducedIn": "New Zealand, USA",
+  "Language": "English, Sindarin",
+  "Plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+  "Actors": "Alan Howard, Noel Appleby, Sean Astin, Sala Baker"
+}
+
+movie-this the+lord+of+the+rings:+the+fellowship
+{
+  "Title": "The Lord of the Rings: The Fellowship of the Ring",
+  "Year": "2001",
+  "IMDBRating": "8.8",
+  "RottenTomatoesRating": "91%",
+  "ProducedIn": "New Zealand, USA",
+  "Language": "English, Sindarin",
+  "Plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+  "Actors": "Alan Howard, Noel Appleby, Sean Astin, Sala Baker"
+}
+
+movie-this the+fellowship+of+the+ring
+{
+  "Title": "The Lord of the Rings: The Fellowship of the Ring",
+  "Year": "2001",
+  "IMDBRating": "8.8",
+  "RottenTomatoesRating": "91%",
+  "ProducedIn": "New Zealand, USA",
+  "Language": "English, Sindarin",
+  "Plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+  "Actors": "Alan Howard, Noel Appleby, Sean Astin, Sala Baker"
+}
