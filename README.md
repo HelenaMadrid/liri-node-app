@@ -29,9 +29,6 @@ You can use the following commands:
 
 ## Working proof
 
-* See it in action gif: 
-
-
 **concert-this**
 
 * The user is searching for concert information about Ariana Grande.
@@ -80,6 +77,9 @@ You can use the following commands:
 
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/random-spotify.png "random-spotify-this-song")
 ![alt text](https://github.com/HelenaMadrid/liri-node-app/blob/master/images/do-what-it-says-spotify-this-song-bad-romance.gif "random-spotify-this-song bad romance")
+
+**Log.txt**
+* All the results from the user searches are addded into a document called "log.txt". At first, the document doesn't exists but it's creater after the first result is delivered.
 
 ## Authors
 
